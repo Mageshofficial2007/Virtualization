@@ -1,6 +1,6 @@
 ## Ex.3 Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
-## NAME: S.YOGESH
-## REG NUMBER: 212224230311
+## NAME: MAGESH BOOPATHI.M
+## REG NUMBER: 212224230145
 ## Aim:
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
 
